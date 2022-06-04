@@ -10,7 +10,8 @@ Create a web app using HTML and JavaScript to perform an in-depth analysis of UF
 
 ## Results
 
-* Step 1: Go to the UFO Sightings webpage, you'll see the following page. https://psidhu42.github.io/UFOs/ 
+* Step 1: Go to the UFO Sightings webpage, you'll see the following page. 
+* Link to webpage: https://psidhu42.github.io/UFOs/ 
 
 !["Main Page"](https://github.com/psidhu42/UFOs/blob/main/resources/main_page.PNG)
 
