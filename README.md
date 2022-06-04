@@ -19,7 +19,7 @@ Create a web app using HTML and JavaScript to perform an in-depth analysis of UF
 
 !["Filter Search and Table View"](https://github.com/psidhu42/UFOs/blob/main/resources/filter_and_table.PNG)
 
-* Step 3: To filter the table for diffrent results enter a value for one or more of the categoreys and then press the "Enter" or "Return" key on your keyboard. See image below for exmpale of filtered table results with "____" as the state.
+* Step 3: To filter the table for diffrent results enter a value for one or more of the categoreys and then press the "Enter" or "Return" key on your keyboard. See image below for exmpale of filtered table results with "ky" as the state.
 
 !["Filtered Table Example"](https://github.com/psidhu42/UFOs/blob/main/resources/filtered_search_example.PNG)
 
